@@ -1,0 +1,37 @@
+[
+	{
+		"dates": "May 2023 · Present",
+		"role": "Research Trainee",
+		"company": "Purdue Center for Secure Microelectronic Ecosystems",
+		"description": "Taped out RISC-V SoC with novel hardware redaction techniques in Cadence (TSMC180). Instantiated SAT Attacks to benchmark redaction security. Fabricated MTJ Arrays for MRAM sensitization and probabilistic computing at Birck Nanotechnology Center.",
+		"logo": "/assets/experiences/company.jpg"
+	},
+	{
+		"dates": "Aug 2022 · Present",
+		"role": "Graduate Research Assistant",
+		"company": "Purdue SoCET Research Group",
+		"description": "Translated formal verification test benches for I2C peripheral to UVM standard, improving coverage by 28%. Proposed novel MRAM sensitization method for at-risk temperature environments. Streamlined build management via FuseSoC.",
+		"logo": "/assets/experiences/company.jpg"
+	},
+	{
+		"dates": "Aug 2021 · Dec 2021",
+		"role": "Embedded Engineer — Senior Design (RevEx)",
+		"company": "Purdue University",
+		"description": "Devised a non-optical wearable VR/AR controller with haptic feedback. Provided firmware for SPI, I2C, UART, ADC, PWM, DMA peripherals and an Interrupt Scheduler/Handler. Built PCB layout for data acquisition.",
+		"logo": "/assets/experiences/company.jpg"
+	},
+	{
+		"dates": "May 2021 · Aug 2021",
+		"role": "Software Engineering Intern",
+		"company": "Jacobs Engineering / KeyW Group",
+		"description": "Coordinated integration between two teams for a custom compression algorithm and cube satellite firmware update. Set up automated thermal/vacuum testing for PCBs. Improved REST API for satellite ground station using Yamcs.",
+		"logo": "/assets/experiences/company.jpg"
+	},
+	{
+		"dates": "May 2020 · Aug 2020",
+		"role": "Firmware Engineering Intern",
+		"company": "Allegion PLC",
+		"description": "Developed automated repository build structure with CI, unit testing, static analysis, and Azure DevOps support. Designed automated firmware testing for Bluetooth, wireless, and UI emulation of electronic locks.",
+		"logo": "/assets/experiences/company.jpg"
+	}
+]

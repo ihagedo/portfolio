@@ -1,0 +1,45 @@
+[
+	{
+		"name": "RISC-V SoC Tape-Out",
+		"description": "Hardware redaction techniques applied to RISC-V SoC in Cadence (TSMC180)",
+		"tags": ["Chip Design", "RISC-V", "Cadence"],
+		"image": "/assets/works/ricoog.jpg",
+		"url": "https://github.com/ihagedo",
+		"isShow": true
+	},
+	{
+		"name": "MRAM Characterization",
+		"description": "FPGA-based testing framework with XOR methodology and Hamming distance analysis",
+		"tags": ["FPGA", "SystemVerilog", "MRAM"],
+		"image": "/assets/works/gradientshub.jpg",
+		"url": "https://github.com/ihagedo"
+	},
+	{
+		"name": "Polymorphic Gate FIR Filter",
+		"description": "Runtime-reconfigurable FIR filter on AMD Kria KV260 demonstrating polymorphic computing",
+		"tags": ["FPGA", "AMD Kria", "Polymorphic"],
+		"image": "/assets/works/ricoui.jpg",
+		"url": "https://github.com/ihagedo"
+	},
+	{
+		"name": "RevEx — VR/AR Controller",
+		"description": "Non-optical wearable controller with haptic feedback and sensor fusion",
+		"tags": ["Embedded C", "PCB Design", "Sensor Fusion"],
+		"image": "/assets/works/luonmodels.jpg",
+		"url": "https://github.com/ihagedo"
+	},
+	{
+		"name": "MTJ Array Fabrication",
+		"description": "Magnetic Tunnel Junction arrays for MRAM and probabilistic computing research",
+		"tags": ["Nanofabrication", "E-Beam Lithography", "MRAM"],
+		"image": "/assets/works/3d-valentines.jpg",
+		"url": "https://github.com/ihagedo"
+	},
+	{
+		"name": "Satellite Ground Station",
+		"description": "REST API improvements for cube satellite ground station using Yamcs",
+		"tags": ["REST API", "Yamcs", "Satellite"],
+		"image": "/assets/works/uiuxdeck.jpg",
+		"url": "https://github.com/ihagedo"
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"name": "GitHub",
+		"username": "ihagedo",
+		"image": "/assets/social/social-github.jpg",
+		"url": "https://github.com/ihagedo"
+	},
+	{
+		"id": 2,
+		"name": "LinkedIn",
+		"username": "isaac-hagedorn",
+		"image": "/assets/social/social-twitter.jpg",
+		"url": "https://linkedin.com/in/isaac-hagedorn"
+	},
+	{
+		"id": 3,
+		"name": "Email",
+		"username": "ihagedo",
+		"image": "/assets/social/social-email.jpg",
+		"url": "mailto:ihagedo@purdue.edu"
+	}
+]

@@ -1,4 +1,4 @@
-# Rico Portfolio - Designer Portfolio Website - Test
+# Rico Portfolio - Designer Portfolio Website
 
 > [中文文档](README-zh.md) | English
 

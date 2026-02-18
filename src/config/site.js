@@ -1,4 +1,4 @@
-const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://yourdomain.com';
+const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://ihagedo.github.io';
 
 export const siteConfig = {
 	title: "Isaac Hagedorn",
